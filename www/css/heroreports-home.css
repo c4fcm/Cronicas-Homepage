@@ -1,0 +1,120 @@
+body {
+	margin-top: 0px;
+	font-family: 'Crimson Text', serif;
+}
+
+#hr-page {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;	
+}
+
+a {
+	color: #000066;
+}
+
+p {
+	margin: 10px 0px;
+}
+
+h1 {
+	font-family: 'Old Standard TT', arial, serif;
+	font-size: 96px;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	clear: left;
+	color: #333333;
+	background: #eeeeee;
+	padding: 20px;
+	font-family: 'Crimson Text', serif;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 30px;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	clear: left;
+	color: #333333;
+	padding:0px;
+	font-family: 'Crimson Text', serif;
+	font-weight: normal;
+	font-size: 36px;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+.hr-live-cities {
+}
+
+.hr-prospective-cities {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.hr-prospective-cities h2 {
+	font-size: 24px;
+	margin-bottom: 5px;
+}
+
+.hr-prospective-cities ul,
+.hr-live-cities ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.hr-prospective-cities p {
+	font-size: 18px;	
+	color: #666666;
+}
+
+.hr-live-cities ul li {
+	background: #eeeeee;
+	width: 460px;
+	font-family: 'Crimson Text', serif;
+	font-weight: normal;
+	font-size: 30px;
+	display: block;
+	float: left;
+	margin-bottom: 40px;
+}
+
+.hr-live-cities ul li a {
+	padding: 20px;
+	display: block;
+}
+
+.hr-live-cities ul li.hr-odd {
+	margin-right: 40px;
+}
+
+.hr-prospective-cities ul li {
+	background: #eeeeee;
+	width: 160px;
+	font-family: 'Crimson Text', serif;
+	font-weight: normal;
+	font-size: 18px;
+	display: block;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.hr-prospective-cities ul li a {
+	padding: 12px;
+	display: block;
+}
+
+#hr-map {
+	clear: both;
+	height: 400px;
+}
+
+.hr-footer {
+	clear: both;
+}

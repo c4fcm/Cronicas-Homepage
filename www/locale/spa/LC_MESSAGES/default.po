@@ -1,0 +1,23 @@
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2011-03-30 15:05-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rahul Bhargava <rahulb@media.mit.edu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "title"
+msgstr "Crónicas de Héroes"
+
+msgid "summary"
+msgstr "Crónicas de Héroes es una campaña de positivismo que reporta el valor ciudadano actual, como un ejemplo de colaboración positiva de la sociedad civil. El proyecto se enfoca en pequeñas acciones notorias (actos de amabilidad, de respeto, honestidad, etc.) y las hace públicas, ya que estas pasan por desapercibido, pero en realidad también son parte de bienestar ciudadano. Como base fundamental la campaña reconoce que cotidianamente existen héroes entre todos nosotros y que estos no se quedan sentados a esperar tiempos mejores. Cada uno ha realizado o bien, ha visto una acción que amerita ser reconocida y compartida por todos."
+
+msgid "partner_cities"
+msgstr "Comunidades"
+
+msgid "prospective_cities"
+msgstr "Comunidades Potenciales"
+
+msgid "prospective_involvement"
+msgstr "¡En construcción! Por favor contáctenos si tiene interés en participar en uno de estos sitios - info &#64; cronicasdeheroes.mx"
