@@ -85,11 +85,11 @@ foreach ($po as $line) {
 <div class="hr-prospective-cities">
 	<h2><?=$t['prospective_cities']?></h2>
 	<p><?=$t['prospective_involvement']?></p>
-	<ul>
+<!--	<ul>
 		<li><a href="http://newyork.heroreports.org/">New York, USA</a></li>
 		<li><a href="http://boston.heroreports.org/">Boston, USA</a></li>
 		<li><a href="http://detroit.heroreports.org/">Detroit, USA</a></li>
-	</ul>
+	</ul> -->
 </div>
 
 <p class="hr-footer">
