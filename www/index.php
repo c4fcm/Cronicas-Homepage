@@ -31,7 +31,7 @@ foreach ($po as $line) {
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-	<title><?='$t['title']'?></title>
+	<title><?=$t['title']?></title>
 
 	<link href="http://fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet" type="text/css">
 	<link  href="http://fonts.googleapis.com/css?family=Crimson+Text:regular" rel="stylesheet" type="text/css" >
